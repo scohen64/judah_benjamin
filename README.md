@@ -7,8 +7,8 @@ It supports embedded images, audio, and video, along with Leaflet TileLayer and 
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://scohen64.github.io/danino_migration_path/#1
-- Google Sheets template https://docs.google.com/spreadsheets/d/19OpksAb7ttMBtbDGYH-Vva01lUYO_7vyMv3QLcPHFM8/edit?gid=0#gid=0
+- Leaflet Map 
+- Google Sheets template https://docs.google.com/spreadsheets/d/10N_NqBfVYrnMVPT_suII1uRW2HVuLhvC-TS-Y9ide7w/edit?gid=0#gid=0
 
 ## Create Your Own Migration Path and Send Us the Link to Upload Into the World Sephardic Database
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
